@@ -1,0 +1,8 @@
+{
+  "itemDisplayName": "Deploy the infrastructure to run a Ubiquiti controller in Azure,
+  "icon": "ubuntu",
+  "description": "This template allows you to deploy the necessary infrastructure to run a Ubiquiti Controller. It opens up the necessary firewall ports.  This will deploy a A2 size VM in the resource group location and return the FQDN of the VM.",
+  "summary": "This template takes a minimum amount of parameters and deploys a Ubuntu VM, using the latest patched version.",
+  "githubUsername": "weeyin83",
+  "dateUpdated": "2018-04-04"
+}
